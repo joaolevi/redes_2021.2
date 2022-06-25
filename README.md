@@ -26,14 +26,14 @@ https://github.com/joaolevi/redes_2021.2/archive/refs/heads/main.zip
 ```
 python server.py
 ```
-5. Em um novo terminal abra a pasta ***C:\ ... \Redes 2021.2\src***,  de acordo com caminho que você salvou o repositório.
-6. Execute no terminal o comando**: 
+4. Em um novo terminal abra a pasta ***C:\ ... \Redes 2021.2\src***,  de acordo com caminho que você salvou o repositório.
+5. Execute no terminal o comando**: 
 ```
 python client.py
 ```
-8. Como client.py executando, siga as etapas, escolha a operação, depois escolha os números para executar a operação.
-9. Espere o servidor enviar a resposta
-10. Repita os passos 4 - 7 para ver a função ***Multi-Threads***, ou executar novo comando.
+6. Como client.py executando, siga as etapas, escolha a operação, depois escolha os números para executar a operação.
+7. Espere o servidor enviar a resposta
+8. Repita os passos 4 - 7 para ver a função ***Multi-Threads***, ou executar novo comando.
 
 #### * É necessário ter o Git instalado corretamente na maquina, siga as instruções https://git-scm.com/
 
