@@ -1,5 +1,5 @@
-# redes_2021.2
-This repository has an socket implementation
+# Redes 2021.2
+Alunos: João Levi e Monique Moreira
 
 ## MODO DE EXECUÇÃO
 1. Baixe o repositório git ***ou*** baixe o arquivo zip:
