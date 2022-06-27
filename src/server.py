@@ -62,7 +62,6 @@ class ClientThread(threading.Thread):
         return(sqrt(num))
 
     def run(self):
-        print ("Connection from : ", self.cAddr)
         self.csocket.send(bytes(f'Ola, client', 'UTF-8'))
         while True:
             result = ''
