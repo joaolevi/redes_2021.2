@@ -103,11 +103,9 @@ class ClientThread(threading.Thread):
                 self.csocket.send(bytes(f'{result}', 'UTF-8'))
 
             except Exception as e:
-                print(str(e)+'\nFaltam parametros na requisicao do client')
-                self.csocket.send(bytes('Faltam parametros', 'UTF-8'))
-
-
-
+                print(str(e))
+                self.csocket.send(bytes('Faltam parametros na requisicao', 'UTF-8'))
+                
         print ("Client em ", self.cAddr , " desconectado...")
         
 def start_server():
