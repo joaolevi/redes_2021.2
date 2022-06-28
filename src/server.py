@@ -18,7 +18,7 @@ class ClientThread(threading.Thread):
         threading.Thread.__init__(self)
         self.csocket = clientsocket
         self.cAddr = clientAddress
-        print ("New connection added: ", clientAddress)
+        print ("Nova conexão adicionada: ", clientAddress)
 
     def soma(self, num1, num2):
         return (num1+num2)
