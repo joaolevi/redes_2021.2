@@ -45,6 +45,7 @@ PAR 2 0
 IMP 2 0
 LOG 2 0
 SQRT 2 0
+SAIR
 
 Para mais informações consute o relatório.pdf
 ```
