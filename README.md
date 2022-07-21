@@ -21,12 +21,12 @@ Alunos: João Levi e Monique Moreira
 https://github.com/joaolevi/redes_2021.2/archive/refs/heads/main.zip
 ```
 
-2. Abra o terminal na pasta ***C:\ ... \redes_2021.2\src***, de acordo com caminho que você salvou o repositório.
+2. Abra o terminal na pasta ***C:\ ... \redes_2021.2\src***, de acordo com o caminho que você salvou o repositório.
 3. Execute no terminal o comando** : 
 ```
 python server.py
 ```
-4. Em um novo terminal abra a pasta ***C:\ ... \redes_2021.2\src***,  de acordo com caminho que você salvou o repositório.
+4. Em um novo terminal abra a pasta ***C:\ ... \redes_2021.2\src***,  de acordo com o caminho que você salvou o repositório.
 5. Execute no terminal o comando**: 
 ```
 python client.py
@@ -47,7 +47,7 @@ LOG 2 0
 SQRT 2 0
 SAIR
 
-Para mais informações consute o relatório.pdf
+Para mais informações consulte o relatório.pdf
 ```
 8. Espere o servidor enviar a resposta
 9. Repita os passos 4 - 7 para ver a função ***Multi-Threads***, ou executar novo comando.
